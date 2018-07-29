@@ -1,2 +1,2 @@
-# scraper
-# Python program based on ewb scraping using beautifulsoup4 library of python.
+# Scraper
+Python program based on web scraping using beautifulsoup4 library of python.
